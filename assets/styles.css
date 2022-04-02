@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Ms Dos";
+    src: url(font.ttf);
+}
+
+
+* {
+	background-color: #000;
+	color:  rgb(0, 255, 0);
+	font-family: "Ms Dos";
+	text-decoration: none;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.command {
+	display: inline;
+	border:  0;
+}
+
+.space {
+	padding-left: 20px;
+}
+
+.underline:hover {
+	text-decoration: underline;
+}
+
+.responseCommand {
+	padding-left: 20px;
+}
