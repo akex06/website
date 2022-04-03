@@ -18,6 +18,9 @@ html {
 .command {
 	display: inline;
 	border:  0;
+	outline: none;
+	padding-top: 10px;
+	font-size: 16px;
 }
 
 .space {
@@ -30,4 +33,9 @@ html {
 
 .responseCommand {
 	padding-left: 20px;
+	font-size: 16px;
+}
+
+.sep40 {
+	padding-left: 40px;
 }
