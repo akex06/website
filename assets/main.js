@@ -92,7 +92,7 @@ const commands = {
 	"discord": "My Discord: Akex06#9139<br>My server: <a href = 'https://discord.gg/CMyXkdRnUu' target='_blank' class='underline'>https://akex.dev/discord</a>",
 	"projects": "My projects:<br>PoopBot - <a href = 'https://poopbot.ml' target = '_blank' class = 'underline'>https://akex.dev/poopbot</a><br>AquaticMC - <a href = 'https://discord.aquaticmc.club' class = 'underline' target = '_blank'>https://akex.dev/aquaticmc</a><br>Tabby - <a href = 'https://discord.tabbybot.xyz/' target='_blank'class='underline'>https://akex.dev/tabby</a><br>NeoMatrix - <a href='https://discord.neomatrix.ml/' target='_blank' class='underline'>https://akex.dev/neomatrix</a>",
 	"github": "<a href = 'https://github.com/akex06' target = '_blank' class = 'underline'>https://akex.dev/github</a>",
-	"info": "My information:<br>Name: Alex<br>Age: 15<br>Country: Spain<br>Programming Languages:<br><a class = 'sep40'>Python</a><br><a class = 'sep40'>Java</a><br><a class = 'sep40'>JavaScript</a><br><a class = 'sep40'>Html</a><br><a class = 'sep40'>CSS</a>",
+	"info": "My information:<br>Name: Alex<br>Age: 16<br>Country: Spain<br>Programming Languages:<br><a class = 'sep40'>Python</a><br><a class = 'sep40'>Java</a><br><a class = 'sep40'>JavaScript</a><br><a class = 'sep40'>Html</a><br><a class = 'sep40'>CSS</a>",
 	"clear": "Clears the terminal",
 	"hello world": "Hello, World!",
 	"ls": "Desktop Documents Downloads Music Pictures Public Templates Videos",
