@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "MS DOS";
+    src: url("font.ttf");
+}
+
+* {
+    font-family: "MS DOS";
+    font-size: large;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: lime;
+    white-space: pre-wrap;
+    margin: 10px;
+}
+
+a {
+    color: lime;
+}
+
+.command {
+    display: flex;
+    flex-direction: column;
+}
+
+.command > div {
+    display: flex;
+    align-items: center;
+    height: fit-content;
+}
+
+.command > div > input {
+    height: min-content;
+    background-color: black;
+    border: none;
+    outline: transparent;
+    color: lime;
+    width: 100%;
+    text-indent: 5px;
+}
